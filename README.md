@@ -22,8 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviv-levi&theme=react&layout=compact)
 
- 
-  <img width="390" src="https://streak-stats.demolab.com/?user=aviv-levi&count_private=true&theme=react&border_radius=10" alt="streak stats" />
 
 <p align="left">
   <a href="https://github.com/aviv-levi?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
