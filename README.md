@@ -21,7 +21,7 @@
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviv-levi&theme=react&layout=compact)
 
 
 <p align="left">
